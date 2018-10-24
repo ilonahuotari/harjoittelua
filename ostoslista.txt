@@ -1,19 +1,9 @@
 KAUPASTA
 - korppujauhoa
-- sokeria
-- Tomaatti
-- banaaneja
-- kananmunia
-- suolakurkkuja
-- sitruunamehua
-- avocado
 - jogurttia
 - ruisleipää
 - kauraleipää
 - maitoa
 - mehukeittoa
 - kermaa
-- appelsiineja
-- mandariineja
-- talouspaperia
 - vessapaperia
