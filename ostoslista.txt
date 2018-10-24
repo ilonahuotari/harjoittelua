@@ -1,5 +1,5 @@
 KAUPASTA
-- kurkku
+- Tomaatti
 - banaaneja
 - kananmunia
 - sitruunamehua
