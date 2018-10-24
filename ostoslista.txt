@@ -1,7 +1,10 @@
 KAUPASTA
+- korppujauhoa
+- sokeria
 - Tomaatti
 - banaaneja
 - kananmunia
+- suolakurkkuja
 - sitruunamehua
 - avocado
 - jogurttia
